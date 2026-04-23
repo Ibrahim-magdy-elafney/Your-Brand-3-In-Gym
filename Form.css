@@ -1,0 +1,51 @@
+html {
+
+    scroll-behavior: smooth;
+
+}
+
+body {
+    background: #f8fafc;
+    color: #020617;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 250px;
+
+
+}
+
+h1:hover {
+
+    color: #22c55e;
+
+
+
+
+}
+
+
+p:hover {
+
+    color: #22c55e;
+
+}
+
+.t1 {
+
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+
+}
+
+
+.t2 {
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    margin-right: 100px;
+
+}
